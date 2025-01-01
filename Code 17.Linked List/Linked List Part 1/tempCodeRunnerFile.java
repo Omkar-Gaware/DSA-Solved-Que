@@ -1,0 +1,10 @@
+dll.addFirst(4);
+        // dll.print();
+        // dll.addFirst(3);
+        // dll.print();
+        // dll.addFirst(2);
+        // dll.print();
+        // dll.addFirst(1);
+        // dll.print();
+        // dll.removeFirst();
+        // dll.print();
